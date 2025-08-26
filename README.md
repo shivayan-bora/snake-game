@@ -86,9 +86,6 @@ npm run build
 # Development with watch mode
 npm run dev
 
-# Run tests, linting, and formatting
-npm run test
-
 # Start the built game
 npm start
 ```
@@ -115,15 +112,6 @@ Contributions are welcome! Here are some ways you can help:
 - 💡 Suggest new features or improvements
 - 🔧 Submit pull requests
 - 📖 Improve documentation
-
-### Development Setup
-
-1. Fork the repository
-2. Clone your fork: `git clone https://github.com/shivayan-bora/snake-game.git`
-3. Install dependencies: `npm install`
-4. Make your changes
-5. Test your changes: `npm run test`
-6. Submit a pull request
 
 ## License
 
